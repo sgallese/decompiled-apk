@@ -1,9 +1,0 @@
-package com.google.android.gms.internal.ads;
-
-/* compiled from: com.google.android.gms:play-services-ads@@22.4.0 */
-/* loaded from: classes3.dex */
-final class zzqh {
-    public static void zza(zzpe zzpeVar, Object obj) {
-        zzpeVar.zzs(x2.a(obj));
-    }
-}
