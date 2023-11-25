@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp">
+    <TextView
+        android:gravity="left"
+        android:id="@+id/tv_attribute_type"
+        android:layout_margin="5dp"/>
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/tv_attribute_str"/>
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/tv_attribute_int"/>
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/tv_attribute_con"/>
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/tv_attribute_per"/>
+</TableRow>

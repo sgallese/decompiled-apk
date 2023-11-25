@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:gravity="center"
+        android:background="@drawable/avatar_border"
+        android:layout_width="111dp"
+        android:layout_height="114dp"
+        android:layout_marginTop="@dimen/spacing_large"
+        android:layout_marginBottom="@dimen/spacing_large">
+        <com.habitrpg.common.habitica.views.AvatarView
+            android:layout_gravity="center"
+            android:id="@+id/avatarView"
+            android:layout_width="94dp"
+            android:layout_height="98dp"/>
+    </FrameLayout>
+    <TextView
+        android:textColor="@color/text_ternary"
+        android:gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/levelup_detail"
+        style="@style/Body2"/>
+</LinearLayout>

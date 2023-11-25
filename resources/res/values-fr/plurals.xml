@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="flagged_count">
+        <item quantity="one">Signalé %d fois</item>
+        <item quantity="many">Signalé %d fois, caché</item>
+        <item quantity="other">Signalé %d fois, caché</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="one">%d personne</item>
+        <item quantity="other">%d personnes</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Tâche quotidienne</item>
+        <item quantity="many">%d Tâches quotidiennes</item>
+        <item quantity="other">%d Tâches quotidiennes</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Habitude</item>
+        <item quantity="many">%d Habitudes</item>
+        <item quantity="other">%d Habitudes</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Récompense</item>
+        <item quantity="many">%d Récompenses</item>
+        <item quantity="other">%d Récompenses</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Tâche à faire</item>
+        <item quantity="many">%d Tâches à faire</item>
+        <item quantity="other">%d Tâches à faire</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one">Vous</item>
+        <item quantity="other">Vous, %d autres</item>
+    </plurals>
+</resources>

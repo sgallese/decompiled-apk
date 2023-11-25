@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="flagged_count">
+        <item quantity="one">Sinalizado %d vez, oculto</item>
+        <item quantity="many">Sinalizado %d vezes, oculto</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nova notificação</item>
+        <item quantity="other">%d novas notificações</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="one">%d pessoa</item>
+        <item quantity="many">%d pessoas</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="repeat_daily">
+        <item quantity="one">Todo dia</item>
+        <item quantity="many">A cada %d dias</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="repeat_monthly">
+        <item quantity="one">Todo mês</item>
+        <item quantity="many">A cada %d meses</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="repeat_weekly">
+        <item quantity="one">Toda semana</item>
+        <item quantity="many">A cada %d semanas</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="repeat_yearly">
+        <item quantity="one">Todo ano</item>
+        <item quantity="many">A cada %d anos</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Diária</item>
+        <item quantity="many">%d Diárias</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Hábito</item>
+        <item quantity="many">%d Hábitos</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Recompensa</item>
+        <item quantity="many">%d Recompensas</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Afazer</item>
+        <item quantity="many">%d Afazeres</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one">Você</item>
+        <item quantity="other">Vocês, %d outros</item>
+    </plurals>
+</resources>

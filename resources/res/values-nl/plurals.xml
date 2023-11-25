@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="flagged_count">
+        <item quantity="one">%d keer gemarkeerd</item>
+        <item quantity="other">%d keren gemarkeerd, verstopt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nieuwe melding</item>
+        <item quantity="other">%d nieuwe meldingen</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Dagelijkse taak</item>
+        <item quantity="other">%d Dagelijkse taken</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Gewoonte</item>
+        <item quantity="other">%d Gewoontes</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Beloning</item>
+        <item quantity="other">%d Beloningen</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Taak</item>
+        <item quantity="other">%d Taken</item>
+    </plurals>
+</resources>

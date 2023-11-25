@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_list_row"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:background="@color/content_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:layout_gravity="center"
+            android:id="@+id/checkbox_background"
+            android:layout_width="@dimen/button_compact_width"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="@dimen/checkbox_compact_size"
+                android:layout_height="@dimen/checkbox_compact_size"
+                android:src="@drawable/daily_unchecked"/>
+        </FrameLayout>
+        <TextView
+            android:textColor="@color/text_primary"
+            android:id="@+id/dailies_text"
+            android:paddingTop="@dimen/task_top_bottom_compact_padding"
+            android:paddingBottom="@dimen/task_top_bottom_compact_padding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/task_text_padding"
+            android:paddingEnd="@dimen/task_text_padding"/>
+    </LinearLayout>
+    <FrameLayout
+        android:background="@drawable/selection_highlight_brand"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout>

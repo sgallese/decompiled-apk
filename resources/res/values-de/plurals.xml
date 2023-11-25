@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d neue Benachrichtigung</item>
+        <item quantity="other">%d neue Benachrichtigungen</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="one">%d Person</item>
+        <item quantity="other">%d Personen</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Tagesaufgabe</item>
+        <item quantity="other">%d Tagesauffgaben</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Gewohnheit</item>
+        <item quantity="other">%d Gewohnheiten</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Belohnung</item>
+        <item quantity="other">%d Belohnungen</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d To Do</item>
+        <item quantity="other">%d To Dos</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one">Du</item>
+        <item quantity="other">Du und %d andere</item>
+    </plurals>
+</resources>

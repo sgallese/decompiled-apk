@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+        <item quantity="other">%d нового уведомления</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="one">%d человек</item>
+        <item quantity="few">%d человека</item>
+        <item quantity="many">%d человек</item>
+        <item quantity="other">%d человек</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Ежедневное дело</item>
+        <item quantity="few">%d Ежедневных дела</item>
+        <item quantity="many">%d Ежедневных дел</item>
+        <item quantity="other">%d Ежедневных дел</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d привычка</item>
+        <item quantity="few">%d привычки</item>
+        <item quantity="many">%d привычек</item>
+        <item quantity="other">%d привычек</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Награда</item>
+        <item quantity="few">%d Награды</item>
+        <item quantity="many">%d Наград</item>
+        <item quantity="other">%d Наград</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Задача</item>
+        <item quantity="few">%d Задачи</item>
+        <item quantity="many">%d Задач</item>
+        <item quantity="other">%d Задач</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one" />
+        <item quantity="few" />
+        <item quantity="many" />
+        <item quantity="other" />
+    </plurals>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="people">
+        <item quantity="one">%d osoba</item>
+        <item quantity="few">%d osobe</item>
+        <item quantity="other">%d osoba</item>
+    </plurals>
+    <plurals name="repeat_daily">
+        <item quantity="one">svaki dan</item>
+        <item quantity="few">svaka %d dana</item>
+        <item quantity="other">svakih %d dana</item>
+    </plurals>
+    <plurals name="repeat_monthly">
+        <item quantity="one">svaki mjesec</item>
+        <item quantity="few">svaka %d mjeseca</item>
+        <item quantity="other">svakih %d mjeseci</item>
+    </plurals>
+    <plurals name="repeat_weekly">
+        <item quantity="one">svaki tjedan</item>
+        <item quantity="few">svaka %d tjedna</item>
+        <item quantity="other">svakih %d tjedana</item>
+    </plurals>
+    <plurals name="repeat_yearly">
+        <item quantity="one">svake godine</item>
+        <item quantity="few">svake %d godine</item>
+        <item quantity="other">svakih %d godina</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one">Ti, %d druga</item>
+        <item quantity="few">Ti, %d druge</item>
+        <item quantity="other">Ti, %d drugih</item>
+    </plurals>
+</resources>

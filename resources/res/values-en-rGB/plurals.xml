@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="flagged_count">
+        <item quantity="one">Flagged %d time</item>
+        <item quantity="other">Flagged %d times, hidden</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Daily</item>
+        <item quantity="other">%d Dailies</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Habit</item>
+        <item quantity="other">%d Habits</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Reward</item>
+        <item quantity="other">%d Rewards</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d To Do</item>
+        <item quantity="other">%d To Do&apos;s</item>
+    </plurals>
+</resources>

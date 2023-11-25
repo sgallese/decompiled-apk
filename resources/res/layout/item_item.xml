@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:bind="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/RowWrapper">
+    <com.habitrpg.common.habitica.views.PixelArtView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/gear_image_size"
+        android:layout_height="@dimen/gear_image_size"
+        android:layout_marginEnd="@dimen/row_padding"/>
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@color/text_primary"
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/RowTitle"/>
+        <TextView
+            android:textColor="@color/text_secondary"
+            android:id="@+id/ownedTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/RowText"/>
+    </LinearLayout>
+</LinearLayout>

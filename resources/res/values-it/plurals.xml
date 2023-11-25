@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nuova notifica</item>
+        <item quantity="other">%d nuove notifiche</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="one">%d Persona</item>
+        <item quantity="other">%d Persone</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">Aggiungi Ricompensa</item>
+        <item quantity="other" />
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one">Tu</item>
+        <item quantity="other">Voi, %d altri</item>
+    </plurals>
+</resources>

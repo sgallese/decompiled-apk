@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="flagged_count">
+        <item quantity="one">Позначено %d раз</item>
+        <item quantity="few">Позначено %d разів, приховано</item>
+        <item quantity="many" />
+        <item quantity="other" />
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+        <item quantity="other">%d нового сповіщення</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Щоденка</item>
+        <item quantity="few">%d Щоденки</item>
+        <item quantity="many">%d Щоденок</item>
+        <item quantity="other">%d Щоденок</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Звичка</item>
+        <item quantity="few">%d Звички</item>
+        <item quantity="many">%d Звичок</item>
+        <item quantity="other">%d Звичок</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Нагорода</item>
+        <item quantity="few">%d Нагороди</item>
+        <item quantity="many">%d Нагород</item>
+        <item quantity="other">%d Нагород</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Завдання</item>
+        <item quantity="few">%d Завдання</item>
+        <item quantity="many">%d Завдань</item>
+        <item quantity="other">%d Завдань</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="one">Ви, %d інший</item>
+        <item quantity="few">Ви, %d інших</item>
+        <item quantity="many">Ви, %d інших</item>
+        <item quantity="other">Ви, %d інших</item>
+    </plurals>
+</resources>

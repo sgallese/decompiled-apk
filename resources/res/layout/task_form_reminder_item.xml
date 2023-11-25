@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@drawable/layout_rounded_bg_task_form"
+    android:paddingTop="@dimen/spacing_small"
+    android:paddingBottom="@dimen/spacing_small"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/spacing_medium"
+    android:minHeight="38dp"
+    android:paddingStart="@dimen/spacing_medium"
+    android:paddingEnd="@dimen/spacing_medium">
+    <ImageButton
+        android:id="@+id/button"
+        android:background="@color/transparent"
+        android:layout_width="38dp"
+        android:layout_height="30dp"
+        android:src="@drawable/plus_taskform"
+        android:scaleType="center"
+        android:layout_marginEnd="@dimen/spacing_large"/>
+    <TextView
+        android:textSize="14sp"
+        android:textColor="?attr/textColorTintedSecondary"
+        android:id="@+id/text_view"
+        android:background="@color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_reminder"/>
+</merge>

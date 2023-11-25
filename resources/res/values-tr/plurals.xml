@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="flagged_count">
+        <item quantity="one">%d defa işaretlendi</item>
+        <item quantity="other">%d defa işaretlendi, gizli</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d yeni bildirim</item>
+        <item quantity="other">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Günlük</item>
+        <item quantity="other">%d Günlük</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Alışkanlık</item>
+        <item quantity="other">%d Alışkanlık</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Ödül</item>
+        <item quantity="other">%d Ödül</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Yapılacak</item>
+        <item quantity="other">%d Yapılacak</item>
+    </plurals>
+</resources>

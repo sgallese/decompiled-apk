@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+        <item quantity="other">%d nowego powiadomienia</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="one">%d Codzienne</item>
+        <item quantity="few">%d Codzienne</item>
+        <item quantity="many">%d Codziennych</item>
+        <item quantity="other">%d Codziennych</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="one">%d Nawyk</item>
+        <item quantity="few">%d Nawyki</item>
+        <item quantity="many">%d Nawyków</item>
+        <item quantity="other">%d Nawyków</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="one">%d Nagroda</item>
+        <item quantity="few">%d Nagrody</item>
+        <item quantity="many">%d Nagród</item>
+        <item quantity="other">%d Nagród</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="one">%d Do Zrobienia</item>
+        <item quantity="few">%d Do Zrobienia</item>
+        <item quantity="many">%d Do Zrobienia</item>
+        <item quantity="other">%d Do Zrobienia</item>
+    </plurals>
+</resources>

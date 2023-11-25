@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="people">
+        <item quantity="other">%d人</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="other">您，其他%d人</item>
+    </plurals>
+</resources>

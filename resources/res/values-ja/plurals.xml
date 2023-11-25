@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d 件の新しい通知</item>
+        <item quantity="other">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%d 人</item>
+    </plurals>
+    <plurals name="repeat_daily">
+        <item quantity="other">%d 日ごと</item>
+    </plurals>
+    <plurals name="x_dailies">
+        <item quantity="other">%d個の日課</item>
+    </plurals>
+    <plurals name="x_habits">
+        <item quantity="other">%d個の習慣</item>
+    </plurals>
+    <plurals name="x_rewards">
+        <item quantity="other">%d 個のごほうび</item>
+    </plurals>
+    <plurals name="x_todos">
+        <item quantity="other">%d個のTo Do</item>
+    </plurals>
+    <plurals name="you_x_others">
+        <item quantity="other">あなたと他 %d 名</item>
+    </plurals>
+</resources>

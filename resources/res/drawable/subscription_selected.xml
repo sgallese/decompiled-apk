@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <corners android:radius="@dimen/daily_checkbox_corner_radius"/>
+            <solid android:color="@color/brand_400"/>
+            <stroke
+                android:width="5dp"
+                android:color="@color/transparent"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <corners android:radius="@dimen/daily_checkbox_corner_radius"/>
+            <stroke
+                android:width="2dp"
+                android:color="@color/brand_400"/>
+            <size
+                android:height="16dp"
+                android:width="16dp"/>
+        </shape>
+    </item>
+</layer-list>

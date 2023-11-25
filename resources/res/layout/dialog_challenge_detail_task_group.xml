@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="@dimen/spacing_large"
+        android:layout_marginStart="@dimen/spacing_large">
+        <TextView
+            android:textSize="15sp"
+            android:id="@+id/task_group_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Body1"/>
+        <TextView
+            android:textColor="@color/text_dimmed"
+            android:id="@+id/task_count_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/spacing_medium"
+            style="@style/Pill.Content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/tasks_layout"
+        android:background="@drawable/border_1f000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
